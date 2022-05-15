@@ -24,6 +24,14 @@ ActionCam H9 151230
 
 Which is a Type 2, Eken H9.
 
+H9 
+160627LY-LJ http://ftp.eken.com/H9-720P120FPS-160627LY.rar
+160701SY-SJ http://ftp.eken.com/H9-720P120FPS-160701SY.rar
+H9R 
+160627LY-LJ http://ftp.eken.com/H9R-720P120FPS-160627LY.rar
+160701SY-SJ http://ftp.eken.com/H9R-720P120FPS-160701SY.rar
+If your current version is LY/LJ, please take the same version to update.
+If your current version is SY/SJ , please take the same version to update.
 
 ***Update Instructions***
 There's a risk that the camera may brick if the update process is not executed properly, please use with caution or contact us for more support.
