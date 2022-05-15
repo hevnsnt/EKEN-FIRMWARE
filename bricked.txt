@@ -2,6 +2,7 @@ Retrieved info from: http://www.eken-h9-bricked.co.uk/SelectType1Type2Unknown.ht
 
 Here are some youtube videos that might help:
 https://www.youtube.com/watch?v=1qGzUm4Zz-s
+https://www.youtube.com/watch?v=gOWV4kOyzpU
 
 1. When connecting your Eken camera to the PC, always use the USB 2.0 ports AND NOT the USB 3.0 which are not compatible with the 
 SPCA6350 drivers. The Eken camera will not be recognised correctly, when viewed with Device Manager.
