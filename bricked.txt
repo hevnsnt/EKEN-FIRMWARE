@@ -1,0 +1,54 @@
+Retrieved info from: http://www.eken-h9-bricked.co.uk/SelectType1Type2Unknown.html (using Wayback Machine)
+
+1. When connecting your Eken camera to the PC, always use the USB 2.0 ports AND NOT the USB 3.0 which are not compatible with the 
+SPCA6350 drivers. The Eken camera will not be recognised correctly, when viewed with Device Manager.
+
+2. If the Eken camera, "Freezes" OR will not "Power up" after a firmware upgrade, then please do the following :-
+Remove the battery for 5 seconds, then re-insert it again, this action will "RESET" the Eken H9 camera. Next push and hold the "Power ON" button at 
+the front of the camera, hold it pushed in for at least 8 seconds, the camara should now start working correctly.
+This is always recommended, whenever the camera "Freezes" or when it will not "Power up".
+
+3. I will update this page regularly, so please, always check back, for more useful information. Any problems you have or comments, 
+"Good" or "Bad", will be most welcome. Please join my Facebook User Group, and post your comments or queries. Thank you.
+
+You can also obtain my Latest YouTube Tutorial Video, that goes through the whole Recovery process from beginning at STAGE 1 (Installing SPCA6350 
+drivers onto Windows XP, 7, 8, and 10), all the way through to STAGE 5 (Using FRM.exe to fully restore your Eken camera back to "as good as NEW")
+Please Join my User Group, you are all welcome.
+https://www.youtube.com/watch?v=eEQtNE4Pi20
+
+Firmware help
+Please note that SY has Type 1 display screens and LY have Type 2 Displays screens installed in the cameras.
+
+Recovery
+
+Instructions are are in my "How to Recover your Bricked H? or H?R camera made SIMPLE.pdf easy to follow PDF Manual. Note ?=2/3/8/9/H8 Plus/H8 Pro/ H8s/ H9 Plus/H9 Pro.
+
+If your camera firmware does not have the BKA/BL/BS/BT/BTA/BTR/EKA/EKEKA/EKR/LY/LYR/MKR/RS/RY/RY-LY/SSR/SY/XKR/XTR lettering, please do not update. It is likely your camera is a clone, and it will brick if you use the improper Eken firmware on it!
+
+All downloadable firmware will be displayed as WEB_XXX, only firmware direct from the EKEN factory will display EK letters and WEB_ and the Factory firmware will have "STD_" in it.
+This is to prevent leaking of original EKEN firmware, so all firmware Updates, will be displayed as WEB_XXX versions.
+
+On this page, we are going to try to find out what hardware your Eken H9 camera has installed in it.
+Type 1 H9 cameras, came delivered with Firmware Version:
+150826, 150910, 150910SJ, 150928, 150928SJ, 151005, 151005SJ, 151009, 151103, 151103SJ, 
+151128, 151128SJ, 151204, 151208, 151208SJ, 151229, 151229SJ, 160108, 160108SJ, 160421SY
+
+Type 2 H9 cameras, came delivered with Firmware Version:
+150911, 150911RJ, 150914, 150914LY, 151010, 151015, 151127, 151207, 151228LY, 151230,
+160106, 160108, 160108LY, 160222, 160309LY, 160309LY(4k25), 160326, 160421LY
+If you do not know which Firmware Version your camera came with.
+
+You can always go back to the Home Page by clicking the HOME button.
+Or go back one page by clicking the BACK button.
+Eken H9 or H8 Bricked User Group https://www.facebook.com/groups/1721251831425533/
+
+IMPORTANT:
+Please join my "Eken H9 or H8 Bricked User Group" by following the link above. This is where you will get lots of help, along with useful constructive advice, 
+and very informative Tutorial Videos. My latest video STARTS with setting up Unsigned drivers that will be recognized on a Windows 8 or Windows 10 PC, and 
+ENDS with a full demonstration of FRM.exe program, using my specially modified downloadable TYPE 1 "H9 Type 1 camera Backup and Restore.rar" file OR TYPE 2 
+"Eken H9 Type 2 camera Backup and Restore.rar" file. These are downloadable from, www.eken-h9-bricked.co.uk/
+
+This NEW Tutorial Video has 5 STAGES to it, and is designed to be easily followed. Hopefully this Tutorial will cut down on many queries, 
+and instead help all you worried owners of their "Bricked" Eken H9 Camera! restore it back to fully working order. I have had many very nice 
+comments from happy owners of the Eken H9 camera, that now have it back in full working order. So please view my NEW Tutorial Video. Thank you.
+
